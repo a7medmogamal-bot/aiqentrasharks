@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "api/generate.js": {
+      "maxDuration": 300,
+      "memory": 1024
+    },
+    "api/health.js": {
+      "maxDuration": 10,
+      "memory": 256
+    }
+  }
+}
